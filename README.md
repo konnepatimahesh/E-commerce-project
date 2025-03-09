@@ -86,8 +86,6 @@ Admin panel for product management
 
 Order tracking system
 
-# 🤝 Contributing
 
-Feel free to fork this repository, create a new branch, and submit a pull request. Contributions are welcome!
 
 
