@@ -17,7 +17,7 @@ $products = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <body>
     <header>
         <div class="header-container">
-            <h1>Welcome to Our Store</h1>
+            <h1>Welcome to FASHION EXPLORE</h1>
             <nav>
                 <a href="pages/login.php">Login</a>
                 <a href="pages/register.php">Register</a>
